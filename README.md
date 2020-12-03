@@ -8,4 +8,4 @@ Buscador de Tarea.
 
 conexion a bd postgrest.
 Buscador con js
-https://github.com/mario-sanmartin/appTareasPg/tareas1.png
+https://github.com/mario-sanmartin/appTareasPg/main/tareas1.png
